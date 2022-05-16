@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: 0-bootstrap/others/2-isolated-cluster/cluster-n-prod
-    repoURL: https://github.com//home/build/ARO/pepsiDev/GIT_ORG/multi-tenancy-gitops.git
+    repoURL: https://github.com/aropawsetup2022/multi-tenancy-gitops.git
     targetRevision: master
   syncPolicy:
     automated:

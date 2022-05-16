@@ -39,7 +39,7 @@ patches:
   patch: |-
     - op: add
       path: /spec/source/repoURL
-      value: https://github.com//home/build/ARO/pepsiDev/GIT_ORG/multi-tenancy-gitops-infra.git
+      value: https://github.com/aropawsetup2022/multi-tenancy-gitops-infra.git
     - op: add
       path: /spec/source/targetRevision
       value: master
